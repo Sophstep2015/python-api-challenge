@@ -1,9 +1,12 @@
 # python-api-challenge
 Table of Contents
+
     1. Screen Shots
+
         a. Screen Shot of Heat Map 1
         b. Screen Shot of Heat Map 2
     2. Exported Scatter Plots
+    
         a. Latitude vs. Cloudiness Plot
         b. Latitude vs. Humidity Plot
         c. Latitude vs. Temperature Plot
