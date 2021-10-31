@@ -11,7 +11,9 @@ Table of Contents
         b. Latitude vs. Humidity Plot
         c. Latitude vs. Temperature Plot
         d. Latitude vs. Wind Speed Plot
+
     3. Exported Scatter/Regression Plots
+    
         a. Northern Hemisphere - Cloudiness (%) vs. Latitude Regression
         b. Northern Hemisphere - Humidity(%) vs. Latitude Regression
         c. Northern Hemisphere - Max Temp vs. Latitude Regression
